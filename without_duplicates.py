@@ -1,4 +1,4 @@
-# project-5b
+# project-5c
 
 # Author: Gabriel Venegas
 # GitHub username: GVenegas1
@@ -7,7 +7,7 @@
 #and returns a new list with the same values but removing any duplicates
 
 def without_duplicates(items):
-    """Returns a new list of values as the input list but with out
+    """Returns a new list of values as the input list but without
         any duplication. """
 
     #create an empty list to store values
